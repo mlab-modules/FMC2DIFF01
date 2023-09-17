@@ -1,0 +1,17 @@
+description: This module converts VITA 57 FMC-LPC connector to SATA or miniSAS connectors.
+github_branch: FMC2DIFF01A
+github_description: This module converts VITA 57 FMC-LPC connector to SATA or miniSAS
+  connectors.
+github_repo: FMC2DIFF01
+github_url: https://github.com/mlab-modules/FMC2DIFF01
+homepage: false
+images:
+- doc/img/FMC2DIFF_bottom_big.jpg
+- doc/img/FMC2DIFF_top_small.jpg
+- doc/img/FMC2DIFF_top_big.jpg
+- doc/img/FMC2DIFF01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: FMC2DIFF01
+updated: '2023-09-17T11:30:43.190641+00:00'
